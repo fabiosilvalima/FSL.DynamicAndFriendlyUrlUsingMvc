@@ -26,10 +26,10 @@ What is in the source code?
 What is the goal?
 ---
 
-1 - The URLs must be stored in a Repository. It means I want to change and create new urls in my repository;
-2 - One or more URL can be pointed to the same Controller/Action. It means I want to have alias for URLs;
-3 - If an URL does not exists in my Repository, try to resolve using MVC Controller/Action default behavior. It means the MVC default behavior will still work;
-4 - The URL can or not contain an ID at the end. It means that last segmment of those URLs can be a long ID number;
+- The URLs must be stored in a Repository. It means I want to change and create new urls in my repository;
+- One or more URL can be pointed to the same Controller/Action. It means I want to have alias for URLs;
+- If an URL does not exists in my Repository, try to resolve using MVC Controller/Action default behavior. It means the MVC default behavior will still work;
+- The URL can or not contain an ID at the end. It means that last segmment of those URLs can be a long ID number;
 
 **Assumptions:**
 - You need to create a virtual directory in your IIS.
