@@ -4,9 +4,11 @@
 
 Dynamic URL is a great feature working with MVC. Friendly urls are even better. The following approach i think is best way to work with friendly URL.
 
+![enter image description here](https://fabiosilvalima.files.wordpress.com/2016/11/dynamic-url-frienndly.png)
+
 > **LIVE DEMO:**
 > 
-http://codefinal.com/FSL.DynamicAndFriendlyUrlUsingMvc/how-to-write-file-using-csharp/10
+http://codefinal.com/FSL.DynamicAndFriendlyUrlUsingMvc/
 
 ---
 
