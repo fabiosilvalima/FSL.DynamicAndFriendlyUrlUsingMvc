@@ -7,3 +7,5 @@
 /FSL.DynamicAndFriendlyUrlUsingMvc/obj/Debug
 /FSL.DynamicAndFriendlyUrlUsingMvc/FSL.DynamicAndFriendlyUrlUsingMvc.csproj.user
 /packages
+/FSL.DynamicAndFriendlyUrlUsingMvc/obj/Release
+*.user
