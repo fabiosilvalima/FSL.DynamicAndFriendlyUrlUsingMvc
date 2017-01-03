@@ -10,6 +10,12 @@ Dynamic URL is a great feature working with MVC. Friendly urls are even better. 
 > 
 http://codefinal.com/FSL.DynamicAndFriendlyUrlUsingMvc/
 
+> **FULL ARTICLE:**
+>
+> English: https://fabiosilvalima.net/2016/11/28/dynamic-and-friendly-url-using-mvc/
+>
+> Português: https://fabiosilvalima.com.br/2016/11/28/url-dinamica-e-amigavel-no-mvc/
+
 ---
 
 What is in the source code?
