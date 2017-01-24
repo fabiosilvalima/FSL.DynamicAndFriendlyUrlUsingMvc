@@ -4,7 +4,7 @@
 
 Dynamic URL is a great feature working with MVC. Friendly urls are even better. The following approach i think is best way to work with friendly URL.
 
-![enter image description here](https://fabiosilvalima.files.wordpress.com/2016/11/dynamic-url-frienndly.png)
+![enter image description here](https://fabiosilvalima.net/wp-content/uploads/2017/01/fabiosilvalima-url-dinamica-e-amigavel-no-mvc.jpg)
 
 > **LIVE DEMO:**
 > 
@@ -12,9 +12,9 @@ http://codefinal.com/FSL.DynamicAndFriendlyUrlUsingMvc/
 
 > **FULL ARTICLE:**
 >
-> English: https://fabiosilvalima.net/2016/11/28/dynamic-and-friendly-url-using-mvc/
+> English: https://fabiosilvalima.net/en/dynamic-friendly-url-using-mvc/
 >
-> Português: https://fabiosilvalima.com.br/2016/11/28/url-dinamica-e-amigavel-no-mvc/
+> Português: https://fabiosilvalima.net/url-amigavel-e-dinamica-no-mvc/
 
 ---
 
